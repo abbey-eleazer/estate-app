@@ -1,7 +1,7 @@
 <template>
   <div class="w-full h-[57rem] bg-lightColor">
-    <div class="container px-[10rem]">
-      <div class="pt-32">
+    <div class="container px-[10rem] pt-44">
+      <div class="">
         <h2 class="font-serif text-5xl font-bold pb-8" >Top offers</h2>
         <div class="flex items-center justify-between">
         <p class="w-[38rem] text-[1.3rem] font-sans">

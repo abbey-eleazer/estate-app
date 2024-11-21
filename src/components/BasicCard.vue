@@ -1,5 +1,5 @@
 <template>
-  <div class="w-[21.8rem] h-[26rem] rounded overflow-hidden shadow-md shadow-darkBlue/40">
+  <div class="w-[21.8rem] h-[26rem] rounded overflow-hidden shadow-md shadow-darkBlue/40 hover:scale-105 transition-all ease-in-out cursor-pointer">
     <slot></slot>
     <div class="w-[90%] px-4">
       <h3 class="font-serif font-bold text-xl py-4">

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-[21.8rem] h-[23.6rem] rounded shadow-md shadow-darkBlue/50 border border-darkBlue/10 flex flex-col item-center justify-center">
+  <div class="w-[21.8rem] h-[23.6rem] rounded shadow-md shadow-darkBlue/20 border border-darkBlue/10 flex flex-col item-center justify-center">
     <div class="w-full flex items-center justify-center pb-6">
       <slot class="w-[12.5rem]"></slot>
     </div>

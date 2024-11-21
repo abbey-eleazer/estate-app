@@ -2,7 +2,8 @@
 import AboutUs from "@/components/AboutUs.vue";
 import HomeHero from "@/components/HomeHero.vue"
 import OurTeam from "@/components/OurTeam.vue";
-import TopOffers from "@/components/TopOffers.vue"
+import ReferencesSec from "@/components/ReferencesSec.vue";
+import TopOffers from "@/components/TopOffers.vue";
 
 </script>
 
@@ -12,5 +13,6 @@ import TopOffers from "@/components/TopOffers.vue"
     <TopOffers />
     <AboutUs />
     <OurTeam />
+    <ReferencesSec />
   </main>
 </template>

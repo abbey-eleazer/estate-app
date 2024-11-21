@@ -2,29 +2,35 @@
   <div class="fixed bg-whiteColor w-full py-10 z-50">
   <div class="container mx-auto px-[10rem] font-sans flex items-center justify-between">
     <div class="flex items-center gap-16">
-      <img src="../assets/logo-black.png" alt="logo">
+      <router-link to="/">
+          <img src="../assets/logo-black.png" alt="logo">
+      </router-link>
     <ul class="flex items-cent gap-10">
       <li >
-        <router-link>
+        <router-link to="/top-offers">
           Top offers
         </router-link>
       </li>
       <li >
-        <router-link>
+        <router-link to="/search-in-offers">
           Search in offers
         </router-link>
       </li>
       <li >
-        <router-link>
+        <router-link to="/references">
           References
         </router-link>
       </li>
       <li >
-        <router-link>
+        <router-link to="/about-us">
           About us
         </router-link>
       </li>
-     Our team
+      <li >
+        <router-link to="/our-team">
+          Our team
+        </router-link>
+      </li>
     </ul>
   </div>
 
@@ -39,6 +45,6 @@
 </template>
 
 <script setup>
-
+import BlueBtn from './BlueBtn.vue';
 </script>
 

@@ -1,6 +1,6 @@
 <template>
-  <div class="container px-[10rem] mb-24 ">
-    <div class="flex flex-wrap gap-20 pt-24">
+  <div id="our-team" class="container px-[10rem] mb-24 ">
+    <div class="flex flex-wrap gap-20 pt-40">
       <TeamCard name="Davis Carder" position="Super duper position">
         <img  src="../assets/team1.png" alt="">
       </TeamCard>

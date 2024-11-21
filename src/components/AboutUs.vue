@@ -1,5 +1,5 @@
 <template>
-  <div class="container px-[10rem] my-32">
+  <div class="container px-[10rem] pt-44 pb-32">
     <div class="flex items-center justify-between">
       <img src="../assets/about-us.png" alt="" class="w-[43rem] h-[30rem]">
       <div class="w-[23rem]">
